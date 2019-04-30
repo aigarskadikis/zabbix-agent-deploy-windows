@@ -22,9 +22,12 @@ Zabbix agent:
 
 .. already running
 
-.. location and config:
-"C:\zabbix\zabbix_agentd.exe" --config "C:\zabbix\zabbix_agentd.conf"
+binary location:
+C:\zabbix\zabbix_agentd.exe
+
+agent version:
+4.0.0
 
 .. agent running currently as an process
-zabbix_agentd.exe             8264 Services                   0     10 796 K
+zabbix_agentd.exe             8264 Services                   0     11 016 K
 ```
